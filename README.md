@@ -15,36 +15,36 @@ DISCLAIMER: Pokemon TCG was created by Nintendo and this is not affiliated with 
 # Card Rarity List
 ## Popular 151
 
-### Golden
+* ### Golden
 "Pikachu GOLD"
-### Full Art 
+* ### Full Art 
 "Pikachu(full art)","Pidgey(full art)","Mew(full art)","Rapidash(full art)","Bulbasaur(full art)","Charmander(full art)","Mr Mime (full art)", "Gyrados (full art)","Exeguttor (full art)"
-### Legendary 
+* ### Legendary 
 "Articuno", "Zapdos", "Moltres", "Mewtwo", "Mew"
-### Very Rare
+* ### Very Rare
 "Charizard", "Venusaur", "Blastoise", "Alakazam", "Gengar", "Gyarados", "Dragonite", "Nidoqueen", "Nidoking", "Machamp", "Exeggutor", "Arcanine"
-### Rare 
+* ### Rare 
 "Tauros", "Lapras", "Scyther", "Porygon", "Jynx", "Electabuzz", "Farfetch'd", "Mr. Mime", "Aerodactyl", "Hitmonlee", "Hitmonchan", "Chansey", "Tangela", "Kangaskhan", "Pinsir"
-### Uncommon 
+* ### Uncommon 
 "Butterfree", "Beedrill", "Pidgeot", "Raichu", "Sandslash", "Clefable", “Vileplume", "Victreebel", "Poliwrath", "Golem", "Rapidash", "Slowbro", "Magneton", "Dewgong", "Muk", "Cloyster", "Hypno", "Weezing", "Rhydon", "Seadra", "Starmie"
-### Common 
+* ### Common 
 "Pidgey", "Rattata", "Spearow", "Caterpie", "Weedle", "Zubat", "Magikarp", "Pikachu", "Geodude", "Oddish", "Bellsprout", "Paras", "Venonat", "Diglett", "Meowth", "Psyduck", "Poliwag", "Machop", "Tentacool", "Gastly", "Krabby", "Horsea", "Goldeen", "Staryu", "Doduo", "Shellder", "Drowzee", "Voltorb", "Koffing", "Rhyhorn"
 
 ## Ultimate Revelry
 
-### Golden
+* ### Golden
 "Celebi (GOLD)"
-### Fullart
+* ### Fullart
 "Meganium", "Typhlosion", "Feraligatr", "Lugia", "Ho-Oh", "Raikou", "Entei", "Suicune", "Celebi", "Tyranitar",  "Steelix", "Scizor", "Ampharos", "Kingdra", "Blissey"  
-### Legendary
+* ### Legendary
 "Raikou", "Entei", "Suicune", "Lugia", "Ho-Oh", "Celebi"   
-### Very Rare
+* ### Very Rare
 "Tyranitar", "Dragonite", "Snorlax", "Heracross", "Skarmory",  "Houndoom", "Ursaring", "Donphan", "Miltank", "Porygon2"   
-### Rare 
+* ### Rare 
 "Crobat", "Politoed", "Espeon", "Umbreon", "Slowking", "Forretress", "Granbull", "Mantine", "Piloswine", "Octillery",  "Hitmontop", "Jumpluff", "Sudowoodo", "Girafarig", "Azumarill"
-### Uncommon 
+* ### Uncommon 
 "Furret", "Noctowl", "Ledian", "Ariados", "Xatu", "Bellossom", "Quagsire", "Wobbuffet", "Sunflora", "Magcargo", "Corsola", "Delibird", "Stantler", "Smeargle"  
-#### Common 
+* #### Common 
 "Sentret", "Hoothoot", "Ledyba", "Spinarak", "Chinchou", "Pichu", "Cleffa", "Igglybuff", "Togepi", "Natu", "Mareep", "Marill", "Hoppip", "Sunkern", "Wooper", "Yanma", "Pineco", "Dunsparce", "Snubbull", "Slugma", "Swinub", "Remoraid", "Houndour", "Phanpy", "Tyrogue", "Smoochum", "Elekid", "Magby", "Larvitar"           
 
 ## Upgrade Chance
